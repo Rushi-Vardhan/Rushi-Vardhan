@@ -25,7 +25,7 @@ I turn messy data into reliable insights using Python, SQL and Power BI.
 - Power BI for Data Analysts
 
 ## 📂 Featured Projects
-Coming soon. Building public-dataset projects in data quality, SQL and Power BI.
+- [Data Quality Analysis & Validation](https://github.com/Rushi-Vardhan/data-quality-validation-python): Python, pandas; profiled a 7,043-row dataset, detected hidden blank values and validated it against business rules
 
 ## 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/rushivardhan-mulkanooru-95b045369) | rushi.mulkanooru@gmail.com
