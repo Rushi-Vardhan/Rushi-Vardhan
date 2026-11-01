@@ -26,6 +26,7 @@ I turn messy data into reliable insights using Python, SQL and Power BI.
 
 ## 📂 Featured Projects
 - [Data Quality Analysis & Validation](https://github.com/Rushi-Vardhan/data-quality-validation-python): Python, pandas; profiled a 7,043-row dataset, detected hidden blank values and validated it against business rules
+- - [SQL Business Analysis: E-commerce](https://github.com/Rushi-Vardhan/sql-ecommerce-analysis): SQL (SQLite), CTEs, window functions; analysed revenue, customers and products across 6,000 orders
 
 ## 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/rushivardhan-mulkanooru-95b045369) | rushi.mulkanooru@gmail.com
